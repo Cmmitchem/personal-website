@@ -2,5 +2,29 @@ h1 {
     color: red;
 }
 p {
-    position: center;
+    color: red;
+}
+.prosection{
+    background-color: grey;
+    color: black;
+}
+
+.projsection{
+    background-color: antiquewhite;
+    color: black;
+}
+
+.card{
+    background-color: lavender;
+    color: black;
+}
+
+.ex{
+    background-color: rgb(148, 157, 167);
+    color: black;
+}
+
+.proinfo{
+    
+    color: black;
 }
