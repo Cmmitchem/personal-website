@@ -1,30 +1,119 @@
+
+
 h1 {
-    color: red;
+    font-family: 'Hind Siliguri', sans-serif;
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+    
 }
+
+img{
+    padding: 0px;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+body{
+    background-color: rgb(230, 249, 255);
+}
+
+h2{
+    font-family: 'Hind Siliguri', sans-serif;
+    
+    color: black; 
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25;
+  }
+
+.intro{
+    font-family: system-ui;
+    background-color: rgb(229, 255, 255);
+    color: black;
+    padding: 20px;
+    margin: 30px;
+    border: 3px solid black;
+}
+
 p {
-    color: red;
-}
-.prosection{
-    background-color: grey;
+    font-family: system-ui;
+   
     color: black;
 }
 
 .projsection{
-    background-color: antiquewhite;
+    font-family: 'Hind Siliguri', sans-serif;
+    
     color: black;
 }
 
 .card{
-    background-color: lavender;
+    font-family: system-ui;
+    background-color: rgb(229, 255, 255);
     color: black;
+    padding: 20px;
+    margin: 24px;
+    border: 3px solid black;
 }
 
 .ex{
-    background-color: rgb(148, 157, 167);
+    font-family: system-ui;
+    background-color: rgb(229, 255, 255);
     color: black;
+    padding: 20px;
+    margin: 24px;
+    border: 3px solid black;
+}
+
+.apps{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 600;
+    color: black; 
 }
 
 .proinfo{
-    
+    font-family: system-ui;
     color: black;
+}
+
+.contact{
+    font-family: system-ui;
+    background-color: rgb(229, 255, 255);
+    color: black;
+    padding: 20px;
+    margin: 24px;
+    border: 3px solid black;
+}
+
+.cinfo{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 600;
+    color: black; 
+    
+}
+
+a{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 600;
+    color: black; 
+}
+
+.role{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 600;
+    color: black; 
+
+}
+
+.proname{
+    font-family: 'Hind Siliguri', sans-serif;
+    
+    color: black; 
 }
