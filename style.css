@@ -8,24 +8,25 @@ h1 {
     margin-right: auto;
     width: 50;
     text-align: center;
+    color: rgb(29, 53, 87);
     
 }
 
 img{
     padding: 0px;
     margin: 10px;
-    border: 3px solid black;
+    border: 3px solid rgb(29, 53, 87);
 }
 
 body{
-    background-color: rgb(230, 249, 255);
+    background-color: rgb(241, 250, 238);
     text-align: center;
 }
 
 h2{
     font-family: 'Hind Siliguri', sans-serif;
     
-    color: black; 
+    color: rgb(29, 53, 87); 
 }
 
 .center {
@@ -37,85 +38,85 @@ h2{
 
 .intro{
     font-family: system-ui;
-    background-color: rgb(229, 255, 255);
+    /*background-color: rgb(69, 123, 157);*/
     color: black;
     padding: 20px;
     margin: 50px;
-    border: 3px solid black;
+   /* border: 3px solid rgb(29, 53, 87);*/
 }
 
 p {
     font-family: system-ui;
    
-    color: black;
+    color: rgb(69, 123, 157);
 }
 
 .projsection{
     font-family: 'Hind Siliguri', sans-serif;
     
-    color: black;
+    color: rgb(241, 250, 238);
 }
 
 .card{
     font-family: system-ui;
-    background-color: rgb(229, 255, 255);
+    background-color: rgb(239, 250, 239);
     color: black;
     padding: 20px;
     margin: 50px;
-    border: 3px solid black;
+    border: 3px solid rgb(29, 53, 87);
 }
 
 .ex{
     font-family: system-ui;
-    background-color: rgb(229, 255, 255);
-    color: black;
+    background-color: rgb(239, 250, 239);
+    color: rgb(29, 53, 87);
     padding: 20px;
     margin: 50px;
-    border: 3px solid black;
+    border: 3px solid rgb(29, 53, 87);
 }
 
 .apps{
     font-family: 'Hind Siliguri', sans-serif;
     font-weight: 600;
-    color: black; 
+    color: rgb(69, 123, 157); 
 }
 
 .proinfo{
     font-family: system-ui;
-    color: black;
+    color: rgb(69, 123, 157);
 }
 
 .contact{
     font-family: system-ui;
-    background-color: rgb(229, 255, 255);
-    color: black;
+    background-color: rgb(239, 250, 239);
+    color: rgb(29, 53, 87);
     padding: 20px;
     margin: 80px;
-    border: 3px solid black;
+    border: 3px solid rgb(29, 53, 87);
 }
 
 .cinfo{
     font-family: 'Hind Siliguri', sans-serif;
     font-weight: 600;
-    color: black; 
+    color: rgb(69, 123, 157); 
     
 }
 
 a{
     font-family: 'Hind Siliguri', sans-serif;
     font-weight: 600;
-    color: black; 
+    color: rgb(29, 53, 87); 
 }
 
 .role{
     font-family: 'Hind Siliguri', sans-serif;
     font-weight: 600;
-    color: black; 
+    color: rgb(69, 123, 157); 
 
 }
 
 .proname{
     font-family: 'Hind Siliguri', sans-serif;
     
-    color: black; 
+    color: rgb(69, 123, 157); 
 }
