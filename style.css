@@ -1,35 +1,36 @@
 
 
 h1 {
-    font-family: 'Hind Siliguri', sans-serif;
+    font-family: Garamond, serif;
     font-size: xx-large;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50;
     text-align: center;
-    color: 	rgb(53, 53, 53);
+    color: 	 #3a4660;
+    font-size: xx-large;
     
 }
 .about{
-    color: white;
+    color:  #3a4660;
 }
 
 img{
     padding: 0px;
     margin: 10px;
-    border: 3px solid 	rgb(53, 53, 53);
+    border: 3px solid 	 #3d3d3f;
 }
 
 body{
-    background-color: hsl(0, 0%, 100%);
+    background-color: #f6f5f3;
     text-align: center;
 }
 
 h2{
-    font-family: 'Hind Siliguri', sans-serif;
-    
-    color: 	rgb(53, 53, 53); 
+    font-family: Garamond, serif;
+    font-size: xx-large;
+    color: 	#3a4660; 
 }
 
 .center {
@@ -41,88 +42,99 @@ h2{
 
 .intro{
     font-family: system-ui;
-    background-color: rgb(29, 53, 87);
-    color: white;
-    padding: 20px;
+    font-weight: 400;
+    font-size: large;
+    color:  #3d3d3f;
+    padding: 5px;
     margin: 50px;
-    border: 3px solid rgb(29, 53, 87);
+   
     line-height: 200%;
 }
 
 p {
-    font-family: system-ui;
+    font-family: Garamond, serif;
    
-    color: white;
+    color:  #3d3d3f;
 }
 
 .projsection{
-    font-family: 'Hind Siliguri', sans-serif;
-    
-    color: rgb(255, 255, 255);
+    font-family: Garamond, serif;
+    font-size: x-large;
+    color:  #3d3d3f;
 }
 
 .card{
-    font-family: system-ui;
-    background-color: rgb(29, 53, 87);
-    color: black;
-    padding: 20px;
+    font-family: Garamond, serif;
+    
+    color:  #3d3d3f;
+    padding: 10px;
     margin: 50px;
-    border: 3px solid rgb(29, 53, 87);
+    border: 7px solid  #3d3d3f;
     line-height: 200%;
+   
 }
 
+
 .ex{
-    font-family: system-ui;
-    background-color: rgb(29, 53, 87);
-    color: white;
+    font-family: Garamond, serif;
+    font-size: medium;
+    font-weight: 500;
+    color:  #3d3d3f;
     padding: 20px;
     margin: 50px;
-    border: 3px solid rgb(29, 53, 87);
+    border: 7px solid  #3d3d3f;
     line-height: 200%;
 }
 
 .apps{
-    font-family: 'Hind Siliguri', sans-serif;
+    font-family: Garamond, serif;
     font-weight: 600;
-    color: white; 
+    color:  #3d3d3f; 
 }
 
 .proinfo{
-    font-family: system-ui;
-    color: white;
+    font-family: Garamond, serif;
+    color:  #3d3d3f;
 }
 
 .contact{
-    font-family: system-ui;
-    background-color: rgb(29, 53, 87);
-    color: white;
+    font-family: Garamond, serif;
+    font-size: x-large;
+    color:  #3d3d3f;
     padding: 20px;
     margin: 80px;
-    border: 3px solid rgb(29, 53, 87);
+    border: 7px solid  #3d3d3f;
 }
 
 .cinfo{
-    font-family: 'Hind Siliguri', sans-serif;
+    font-family: Garamond, serif;
     font-weight: 600;
-    color: white; 
+    color:  #3d3d3f; 
     
 }
 
 a{
-    font-family: 'Hind Siliguri', sans-serif;
+    font-family: Garamond, serif;
     font-weight: 600;
-    color: white; 
+    font-size: x-large;
+    color:  #3d3d3f; 
 }
 
 .role{
-    font-family: 'Hind Siliguri', sans-serif;
+    font-family: Garamond, serif;
     font-weight: 600;
-    color: white; 
+    color:  #3d3d3f; 
 
 }
 
 .proname{
-    font-family: 'Hind Siliguri', sans-serif;
-    
-    color: white; 
+    font-family: Garamond, serif;
+    font-size: x-large;
+    color:  #3d3d3f; 
+}
+
+.company{
+    font-family: Garamond, serif;
+    font-size: x-large;
+    color:  #3d3d3f; 
 }
